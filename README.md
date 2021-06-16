@@ -34,6 +34,3 @@ Tested with **VMware ESX 6.7** | User: Administrator | Password: S3cr3t0!
 
 execute **packer build win2016.base.json**
 
-# Credits: #
-
-Inspired by [Stefan Scherer](https://github.com/StefanScherer/packer-windows), [Mischa Taylor](https://sheska.com/automating-windows-server-2016-installs) and [Dmitry Teslya](https://dteslya.engineer/automation/2018-12-20-creating_vm_templates_with_packer) works.
